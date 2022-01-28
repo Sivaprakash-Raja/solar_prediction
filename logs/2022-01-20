@@ -1,0 +1,370 @@
+2022-01-20 23:49:10,488 reading data........
+2022-01-20 23:49:10,488 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:49:11,199 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:49:11,230 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:49:11,230 Check hardware connection
+2022-01-20 23:49:11,230 data logged.....
+2022-01-20 23:49:11,230 prediction Triggered
+2022-01-20 23:50:44,388 reading data........
+2022-01-20 23:50:44,388 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:50:45,004 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:50:45,004 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:50:45,004 Check hardware connection
+2022-01-20 23:50:45,004 data logged.....
+2022-01-20 23:50:45,004 prediction Triggered
+2022-01-20 23:52:52,693 reading data........
+2022-01-20 23:52:52,708 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:52:53,512 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:52:53,512 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:52:53,512 Check hardware connection
+2022-01-20 23:52:53,512 data logged.....
+2022-01-20 23:52:53,512 prediction Triggered
+2022-01-20 23:52:53,576 Creating converter from 3 to 5
+2022-01-20 23:54:38,675 reading data........
+2022-01-20 23:54:38,675 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:54:39,416 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:54:39,416 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:54:39,416 Check hardware connection
+2022-01-20 23:54:39,416 data logged.....
+2022-01-20 23:54:39,416 prediction Triggered
+2022-01-20 23:54:39,432 Creating converter from 3 to 5
+2022-01-20 23:56:25,483 reading data........
+2022-01-20 23:56:25,483 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:56:26,098 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:56:26,098 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:56:26,098 Check hardware connection
+2022-01-20 23:56:26,098 data logged.....
+2022-01-20 23:56:26,098 prediction Triggered
+2022-01-20 23:56:26,098 Creating converter from 3 to 5
+2022-01-20 23:58:12,186 reading data........
+2022-01-20 23:58:12,186 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:12,897 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:12,897 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:12,897 Check hardware connection
+2022-01-20 23:58:12,897 data logged.....
+2022-01-20 23:58:12,897 prediction Triggered
+2022-01-20 23:58:12,897 Creating converter from 3 to 5
+2022-01-20 23:58:25,738 reading data........
+2022-01-20 23:58:25,738 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:26,414 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:26,414 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:26,414 Check hardware connection
+2022-01-20 23:58:26,414 data logged.....
+2022-01-20 23:58:26,414 prediction Triggered
+2022-01-20 23:58:27,671 reading data........
+2022-01-20 23:58:27,671 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:28,255 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:28,255 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:28,255 Check hardware connection
+2022-01-20 23:58:28,255 data logged.....
+2022-01-20 23:58:28,255 prediction Triggered
+2022-01-20 23:58:29,481 reading data........
+2022-01-20 23:58:29,481 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:30,302 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:30,302 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:30,302 Check hardware connection
+2022-01-20 23:58:30,302 data logged.....
+2022-01-20 23:58:30,302 prediction Triggered
+2022-01-20 23:58:31,561 reading data........
+2022-01-20 23:58:31,561 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:32,252 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:32,252 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:32,252 Check hardware connection
+2022-01-20 23:58:32,252 data logged.....
+2022-01-20 23:58:32,252 prediction Triggered
+2022-01-20 23:58:33,572 5 out of the last 5 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001FE39BAFC10> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-01-20 23:58:33,572 reading data........
+2022-01-20 23:58:33,572 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:34,392 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:34,392 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:34,392 Check hardware connection
+2022-01-20 23:58:34,407 data logged.....
+2022-01-20 23:58:34,407 prediction Triggered
+2022-01-20 23:58:35,838 6 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x000001FE398C95E0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2022-01-20 23:58:35,838 reading data........
+2022-01-20 23:58:35,838 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:36,437 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:36,452 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:36,452 Check hardware connection
+2022-01-20 23:58:36,452 data logged.....
+2022-01-20 23:58:36,452 prediction Triggered
+2022-01-20 23:58:37,946 reading data........
+2022-01-20 23:58:37,946 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:38,593 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:38,593 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:38,593 Check hardware connection
+2022-01-20 23:58:38,593 data logged.....
+2022-01-20 23:58:38,593 prediction Triggered
+2022-01-20 23:58:40,167 reading data........
+2022-01-20 23:58:40,183 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:40,959 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:40,959 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:40,959 Check hardware connection
+2022-01-20 23:58:40,959 data logged.....
+2022-01-20 23:58:40,959 prediction Triggered
+2022-01-20 23:58:42,450 reading data........
+2022-01-20 23:58:42,466 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:43,099 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:43,099 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:43,099 Check hardware connection
+2022-01-20 23:58:43,099 data logged.....
+2022-01-20 23:58:43,099 prediction Triggered
+2022-01-20 23:58:44,616 reading data........
+2022-01-20 23:58:44,616 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:45,476 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:45,476 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:45,476 Check hardware connection
+2022-01-20 23:58:45,476 data logged.....
+2022-01-20 23:58:45,476 prediction Triggered
+2022-01-20 23:58:47,144 reading data........
+2022-01-20 23:58:47,144 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:47,917 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:47,917 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:47,917 Check hardware connection
+2022-01-20 23:58:47,917 data logged.....
+2022-01-20 23:58:47,917 prediction Triggered
+2022-01-20 23:58:50,307 reading data........
+2022-01-20 23:58:50,307 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:50,985 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:50,985 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:50,985 Check hardware connection
+2022-01-20 23:58:50,985 data logged.....
+2022-01-20 23:58:50,985 prediction Triggered
+2022-01-20 23:58:52,916 reading data........
+2022-01-20 23:58:52,916 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:53,639 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:53,655 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:53,655 Check hardware connection
+2022-01-20 23:58:53,655 data logged.....
+2022-01-20 23:58:53,655 prediction Triggered
+2022-01-20 23:58:54,942 reading data........
+2022-01-20 23:58:54,942 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:55,588 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:55,588 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:55,603 Check hardware connection
+2022-01-20 23:58:55,603 data logged.....
+2022-01-20 23:58:55,603 prediction Triggered
+2022-01-20 23:58:56,971 reading data........
+2022-01-20 23:58:56,971 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:58:57,950 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:58:57,950 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:58:57,950 Check hardware connection
+2022-01-20 23:58:57,950 data logged.....
+2022-01-20 23:58:57,950 prediction Triggered
+2022-01-20 23:58:59,772 reading data........
+2022-01-20 23:58:59,772 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:00,405 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:00,405 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:00,405 Check hardware connection
+2022-01-20 23:59:00,405 data logged.....
+2022-01-20 23:59:00,405 prediction Triggered
+2022-01-20 23:59:02,165 reading data........
+2022-01-20 23:59:02,181 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:02,763 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:02,763 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:02,763 Check hardware connection
+2022-01-20 23:59:02,763 data logged.....
+2022-01-20 23:59:02,763 prediction Triggered
+2022-01-20 23:59:04,540 reading data........
+2022-01-20 23:59:04,540 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:05,225 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:05,226 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:05,226 Check hardware connection
+2022-01-20 23:59:05,226 data logged.....
+2022-01-20 23:59:05,226 prediction Triggered
+2022-01-20 23:59:07,012 reading data........
+2022-01-20 23:59:07,012 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:07,783 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:07,783 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:07,783 Check hardware connection
+2022-01-20 23:59:07,783 data logged.....
+2022-01-20 23:59:07,783 prediction Triggered
+2022-01-20 23:59:09,636 reading data........
+2022-01-20 23:59:09,636 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:10,241 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:10,241 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:10,241 Check hardware connection
+2022-01-20 23:59:10,241 data logged.....
+2022-01-20 23:59:10,241 prediction Triggered
+2022-01-20 23:59:12,199 reading data........
+2022-01-20 23:59:12,199 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:12,799 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:12,799 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:12,799 Check hardware connection
+2022-01-20 23:59:12,799 data logged.....
+2022-01-20 23:59:12,799 prediction Triggered
+2022-01-20 23:59:14,663 reading data........
+2022-01-20 23:59:14,663 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:15,259 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:15,259 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:15,259 Check hardware connection
+2022-01-20 23:59:15,259 data logged.....
+2022-01-20 23:59:15,259 prediction Triggered
+2022-01-20 23:59:16,826 reading data........
+2022-01-20 23:59:16,826 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:17,236 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:17,236 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:17,236 Check hardware connection
+2022-01-20 23:59:17,236 data logged.....
+2022-01-20 23:59:17,236 prediction Triggered
+2022-01-20 23:59:19,216 reading data........
+2022-01-20 23:59:19,216 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:19,580 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:19,580 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:19,580 Check hardware connection
+2022-01-20 23:59:19,580 data logged.....
+2022-01-20 23:59:19,580 prediction Triggered
+2022-01-20 23:59:20,900 reading data........
+2022-01-20 23:59:20,900 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:21,284 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:21,287 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:21,287 Check hardware connection
+2022-01-20 23:59:21,287 data logged.....
+2022-01-20 23:59:21,287 prediction Triggered
+2022-01-20 23:59:22,537 reading data........
+2022-01-20 23:59:22,537 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:23,040 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:23,040 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:23,040 Check hardware connection
+2022-01-20 23:59:23,040 data logged.....
+2022-01-20 23:59:23,040 prediction Triggered
+2022-01-20 23:59:24,722 reading data........
+2022-01-20 23:59:24,722 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:25,624 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:25,624 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:25,624 Check hardware connection
+2022-01-20 23:59:25,624 data logged.....
+2022-01-20 23:59:25,624 prediction Triggered
+2022-01-20 23:59:27,492 reading data........
+2022-01-20 23:59:27,508 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:28,359 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:28,359 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:28,359 Check hardware connection
+2022-01-20 23:59:28,359 data logged.....
+2022-01-20 23:59:28,359 prediction Triggered
+2022-01-20 23:59:30,151 reading data........
+2022-01-20 23:59:30,151 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:30,719 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:30,719 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:30,719 Check hardware connection
+2022-01-20 23:59:30,719 data logged.....
+2022-01-20 23:59:30,719 prediction Triggered
+2022-01-20 23:59:32,573 reading data........
+2022-01-20 23:59:32,589 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:33,377 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:33,377 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:33,377 Check hardware connection
+2022-01-20 23:59:33,377 data logged.....
+2022-01-20 23:59:33,377 prediction Triggered
+2022-01-20 23:59:35,168 reading data........
+2022-01-20 23:59:35,168 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:35,832 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:35,832 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:35,832 Check hardware connection
+2022-01-20 23:59:35,832 data logged.....
+2022-01-20 23:59:35,832 prediction Triggered
+2022-01-20 23:59:37,607 reading data........
+2022-01-20 23:59:37,623 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:38,285 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:38,300 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:38,300 Check hardware connection
+2022-01-20 23:59:38,300 data logged.....
+2022-01-20 23:59:38,300 prediction Triggered
+2022-01-20 23:59:40,108 reading data........
+2022-01-20 23:59:40,108 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:40,756 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:40,756 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:40,756 Check hardware connection
+2022-01-20 23:59:40,756 data logged.....
+2022-01-20 23:59:40,756 prediction Triggered
+2022-01-20 23:59:42,514 reading data........
+2022-01-20 23:59:42,529 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:43,098 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:43,098 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:43,098 Check hardware connection
+2022-01-20 23:59:43,098 data logged.....
+2022-01-20 23:59:43,098 prediction Triggered
+2022-01-20 23:59:44,938 reading data........
+2022-01-20 23:59:44,954 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:45,664 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:45,664 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:45,664 Check hardware connection
+2022-01-20 23:59:45,664 data logged.....
+2022-01-20 23:59:45,664 prediction Triggered
+2022-01-20 23:59:48,177 reading data........
+2022-01-20 23:59:48,177 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:48,842 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:48,842 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:48,842 Check hardware connection
+2022-01-20 23:59:48,842 data logged.....
+2022-01-20 23:59:48,842 prediction Triggered
+2022-01-20 23:59:50,478 reading data........
+2022-01-20 23:59:50,478 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:51,507 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:51,507 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:51,507 Check hardware connection
+2022-01-20 23:59:51,507 data logged.....
+2022-01-20 23:59:51,507 prediction Triggered
+2022-01-20 23:59:53,326 reading data........
+2022-01-20 23:59:53,326 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:54,174 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:54,174 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:54,174 Check hardware connection
+2022-01-20 23:59:54,174 data logged.....
+2022-01-20 23:59:54,174 prediction Triggered
+2022-01-20 23:59:55,288 reading data........
+2022-01-20 23:59:55,288 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:56,012 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:56,015 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:56,015 Check hardware connection
+2022-01-20 23:59:56,015 data logged.....
+2022-01-20 23:59:56,015 prediction Triggered
+2022-01-20 23:59:57,237 reading data........
+2022-01-20 23:59:57,253 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-20 23:59:57,852 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-20 23:59:57,852 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-20 23:59:57,852 Check hardware connection
+2022-01-20 23:59:57,852 data logged.....
+2022-01-20 23:59:57,852 prediction Triggered
+2022-01-20 23:59:59,094 reading data........
+2022-01-20 23:59:59,094 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-21 00:00:00,104 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-21 00:00:00,104 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-21 00:00:00,104 Check hardware connection
+2022-01-21 00:00:00,104 data logged.....
+2022-01-21 00:00:00,104 prediction Triggered
+2022-01-21 00:00:01,659 reading data........
+2022-01-21 00:00:01,659 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-21 00:00:02,367 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-21 00:00:02,367 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-21 00:00:02,367 Check hardware connection
+2022-01-21 00:00:02,367 data logged.....
+2022-01-21 00:00:02,367 prediction Triggered
+2022-01-21 00:00:04,269 reading data........
+2022-01-21 00:00:04,284 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-21 00:00:04,897 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-21 00:00:04,897 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-21 00:00:04,897 Check hardware connection
+2022-01-21 00:00:04,897 data logged.....
+2022-01-21 00:00:04,897 prediction Triggered
+2022-01-21 00:00:06,718 reading data........
+2022-01-21 00:00:06,718 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-21 00:00:07,175 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-21 00:00:07,175 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-21 00:00:07,175 Check hardware connection
+2022-01-21 00:00:07,175 data logged.....
+2022-01-21 00:00:07,175 prediction Triggered
+2022-01-21 00:00:08,981 reading data........
+2022-01-21 00:00:08,981 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-21 00:00:09,735 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-21 00:00:09,735 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-21 00:00:09,735 Check hardware connection
+2022-01-21 00:00:09,735 data logged.....
+2022-01-21 00:00:09,735 prediction Triggered
+2022-01-21 00:00:12,203 reading data........
+2022-01-21 00:00:12,203 Starting new HTTPS connection (1): api.openweathermap.org:443
+2022-01-21 00:00:13,008 https://api.openweathermap.org:443 "GET /data/2.5/onecall?lat=9.9261153&lon=78.1140983&exclude=hourly,minutely,alerts,daily&appid=da795f6d4917fc9cbe5ccd9454267fe6 HTTP/1.1" 200 367
+2022-01-21 00:00:13,008 {'date': 0, 'time': 0, 'temp': 0, 'pressure': 0, 'humidity': 0, 'uv_index': 0, 'clouds_percentage': 0, 'visibility': 0, 'wind_speed': 0, 'wind_deg': 0, 'temperature': 0, 'solar_irradiation': 0}
+2022-01-21 00:00:13,008 Check hardware connection
+2022-01-21 00:00:13,008 data logged.....
+2022-01-21 00:00:13,008 prediction Triggered
